@@ -1,0 +1,5 @@
+package com.vikas.springdatarest.eventmanagement.entities;
+
+public class AbstractEntity {
+
+}
